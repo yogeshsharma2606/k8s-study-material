@@ -1,0 +1,6 @@
+# Local kind cluster configs
+kind-config.yaml
+
+# OS
+.DS_Store
+Thumbs.db
